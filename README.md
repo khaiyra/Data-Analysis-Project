@@ -7,7 +7,7 @@ Analysis of Company XYZ Supermarket data across the Country.
 # Project Steps
 
 
-STEP 1; Loading the datasets - The company has 3 branches which means, working with 3 datasets as well. Here, the datasets were combined into one making use of the glob library to read them from the working directory, concatenated using Pandas and saved as a csv file for better analysis.
+STEP 1: Loading the datasets - The company has 3 branches which means, working with 3 datasets as well. Here, the datasets were combined into one making use of the glob library to read them from the working directory, concatenated using Pandas and saved as a csv file for better analysis.
 
 STEP 2: Data Exploration - exploring the loaded dataset using some built-in Pandas function. Inspecting the first 5 rows of the data, knowing the total rows and columns present, exploring the statistical summary, checking for missing values and the concise summary information of the dataframe which includes the column datatypes, memory usage etc.
 
