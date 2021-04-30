@@ -45,7 +45,7 @@ STEP 6: Data Visualization - Answers to some questions such as
 # Future Work
 
 
-Increase the dataset with more transactions over the months so as to better understand sales trends, making this project more robust and determine its growth.
+Increase the dataset with more transactions over the months so as to better understand sales trends, making this project more robust and determine its growth. Also, Build a model to predict/forecast for future sales.
 
 
 # Standout Section
